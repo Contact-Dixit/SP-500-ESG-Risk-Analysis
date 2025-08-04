@@ -57,9 +57,18 @@ To clean, analyze, and visualize ESG Risk Scores sourced from publicly available
 
 ## 📊 Dashboard Preview
 
-> *(Insert dashboard screenshot here)*
+> (https://github.com/Contact-Dixit/SP-500-ESG-Risk-Analysis/blob/main/Screenshot/S%26P%20500%20ESG%20Risk%20Power%20BI%20Dashboard.jpeg)
 
 ---
 
-## 📂 Repository Structure
+## 💡 Future Improvements
 
+- Time-series ESG score tracking (year-over-year analysis)
+- Include Market Cap / Financial performance overlay
+- Deploy dashboard to Power BI Cloud (service)
+
+---
+
+## 📬 Contact
+
+Feel free to connect on **LinkedIn: www.linkedin.com/in/dixitpatel-senioranalyst** or reach out if you’d like to collaborate on data analytics or BI projects!
