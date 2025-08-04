@@ -57,7 +57,7 @@ To clean, analyze, and visualize ESG Risk Scores sourced from publicly available
 
 ## 📊 Dashboard Preview
 
-> (https://github.com/Contact-Dixit/SP-500-ESG-Risk-Analysis/blob/main/Screenshot/S%26P%20500%20ESG%20Risk%20Power%20BI%20Dashboard.jpeg)
+< img src='Screenshot/S&P 500 ESG Risk Power BI Dashboard' /> 
 
 ---
 
